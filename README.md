@@ -1,4 +1,4 @@
-# Demo Financial User management
+# Demo Financial User Management
 ## Description: 
 ### By this demo API project named dmoney, we can create and manipulate several types of user role like Customer, Agent and Merchant
 
